@@ -35,13 +35,13 @@ flex-direction:row;
 justify-content:space-around;
 } 
  .card1,.card2,.card3,.card4{
-    box-shadow: 5px 5px 5px 0 rgba(245, 171, 53, 1);
+    box-shadow: 5px 5px 5px 0 rgba(149, 165, 166, 1);
     max-width:250px;
     max-height:250px;
     margin-bottom:5px;
  }
  #me1:hover,#me2:hover,#me3:hover,#me4:hover{
-     color:rgba(245, 171, 53, 1);
+     color:rgba(149, 165, 166, 1)
  }
 /**********************myproject styling*****************************************************************/
 .myprojects{
@@ -60,6 +60,8 @@ justify-content:space-around;
     border-radius: 100px; 
     opacity:0.7;
 } 
-
+footer{
+    background-color: grey;
+}
 
 
