@@ -4,11 +4,35 @@
     padding-bottom: 350px;
     background-repeat: no-repeat;
     background-size:cover;
-    display:flex;
-    justify-content:center;
+   
+    border-bottom: 2px solid grey;
     
+    
+}
+.header>h1{
+    text-align:center;
+    padding-top: 200px;
+
+}
+.aboutme{
+    border-bottom: 2px solid grey;
     
 }
 /**********************aboutme styling***************************************************/
 
+.aboutme1{
+  text-align: center; 
+}
+
+ .aboutme2{
+display:flex;
+flex-direction:row;
+justify-content:space-between;
+} 
+ .card1,.card2,.card3,.card4{
+    box-shadow: 5px 5px 5px 0 rgba(189, 195, 199, 1);
+    max-width:250px;
+    max-height:250px;
+    margin-bottom:5px;
+ }
 
