@@ -16,7 +16,7 @@
 }
 .aboutme{
     border-bottom: 2px solid grey;
-    
+
 }
 /**********************aboutme styling***************************************************/
 
@@ -29,10 +29,10 @@ display:flex;
 flex-direction:row;
 justify-content:space-between;
 } 
- .card1,.card2,.card3,.card4{
+ /* .card1,.card2,.card3,.card4{
     box-shadow: 5px 5px 5px 0 rgba(189, 195, 199, 1);
     max-width:250px;
     max-height:250px;
     margin-bottom:5px;
- }
+ } */
 
