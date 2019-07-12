@@ -1,4 +1,9 @@
 /**********************Header styling***************************************************/
 .header{
-    background-image: url(/home/annick/Documents/week1-project/week1-project-img);
+    background-image: url(/home/annick/Documents/week1-project/week1-project-img/head.jpeg); 
+    padding-bottom: 350px;
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+    
 }
