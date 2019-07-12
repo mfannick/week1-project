@@ -60,8 +60,23 @@ justify-content:space-around;
     border-radius: 100px; 
     opacity:0.7;
 } 
+/**********************myproject styling*****************************************************************/
 footer{
     background-color: grey;
 }
+.socialmd{
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+}
+.cprt{
+    text-align: center;
+    /* display: flex;
+    flex-direction: column;
+    justify-content: flex-start; */
+}
+
+    
+
 
 
