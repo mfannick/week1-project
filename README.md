@@ -8,16 +8,19 @@ ANNICK FRANCINE MAJYAMBERE
 ### Project description
 
  Portfolio   | description
--------------|------------------
+-------------|--------------------
  File        | Talking about me
-
-Projects     |Backery website
-   done       school website
-
+-------------|--------------------
+Projects done|-Backery website
+             |-school website
+             |-Pan african games
+-------------|--------------------
 
 ### Link to Github
  
  This links to [live site on GitHub Page](#github)
+
+### Licence and Copyright
 
  { exp:copyright:show="2019"} Annick [mfannick](#github)
 
