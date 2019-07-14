@@ -21,7 +21,7 @@ Projects done|-Backery website
 
 ### Licence and Copyright
 
- copyright2019 Annick [mfannick](#github)
+ {exp:copyright:show} Annick [mfannick](#github)
 
 
 
