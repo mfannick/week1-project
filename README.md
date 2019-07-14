@@ -10,10 +10,10 @@ ANNICK FRANCINE MAJYAMBERE
  Portfolio   | description
 -------------|------------------
  File        | Talking about me
--------------|------------------
+
 Projects     |Backery website
-   done      | school website
--------------|------------------
+   done       school website
+
 
 ### Link to Github
  
