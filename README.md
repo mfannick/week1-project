@@ -21,7 +21,7 @@ Projects done|-Backery website
 
 ### Licence and Copyright
 
- copyright_symbol= Annick [mfannick](#github)
+ copyright_symbol="c"2019 Annick [mfannick](#github)
 
 
 
