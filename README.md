@@ -10,11 +10,11 @@ ANNICK FRANCINE MAJYAMBERE
  Portfolio   | description
 -------------|--------------------
  File        | Talking about me
--------------|--------------------
+             |
 Projects done|-Backery website
              |-school website
              |-Pan african games
--------------|--------------------
+             
 
 ### Link to Github
  
