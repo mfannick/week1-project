@@ -1,6 +1,6 @@
 /**********************Header styling***************************************************/
 .header{
-    background-image: url(image/head1.jpg); 
+    background-image: url("../image/head1.jpg"); 
     padding-bottom: 350px;
     background-repeat: no-repeat;
     background-size:cover;
