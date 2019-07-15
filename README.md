@@ -11,8 +11,8 @@ ANNICK FRANCINE MAJYAMBERE
 -------------|--------------------
  File        | Talking about me
 Projects done|-Backery website
-              -school website
-              -Pan african games
+|------------|-school website
+|------------|-Pan african games
              
 
 ### Link to Github
@@ -21,7 +21,7 @@ Projects done|-Backery website
 
 ### Licence and Copyright
 
-copyright_symbol="" 2019 Annick [mfannick](https://mfannick.github.io/week1-project)
+copyright 2019 Annick [mfannick](https://mfannick.github.io/week1-project)
 
 
 
