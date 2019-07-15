@@ -17,11 +17,11 @@ Projects done|-Backery website
 
 ### Link to Github
  
- This links to [live site on GitHub Page](#github)
+ This links to [live site on GitHub Page](https://mfannick.github.io/week1-project)
 
 ### Licence and Copyright
 
- copyright_symbol="" 2019 Annick [mfannick](#github)
+copyright_symbol="" 2019 Annick [mfannick](https://mfannick.github.io/week1-project)
 
 
 
